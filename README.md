@@ -7,7 +7,7 @@
 * 2020, NIPS, [A Closer Look at Accuracy vs. Robustness](https://proceedings.neurips.cc/paper/2020/file/61d77652c97ef636343742fc3dcf3ba9-Paper.pdf)
 
 ## Network Intrusion Detection
-* 2010, S&P,[Outside the Closed World:On Using Machine Learning For Network Intrusion Detection](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5504793)
+* 2010, S&P, [Outside the Closed World:On Using Machine Learning For Network Intrusion Detection](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5504793)
 * 2017, IEEE Access, [A Deep Learning Approach for Intrusion Detection Using Recurrent Neural Networks](https://ieeexplore.ieee.org/abstract/document/8066291)
 * 2018, NDSS, [Kitsune: An Ensemble of Autoencoders for Online Network Intrusion Detection](https://arxiv.org/pdf/1802.09089.pdf)
 * 2021, USENIX, [CADE: Detecting and Explaining Concept Drift Samples
@@ -16,7 +16,7 @@ for Security Applications](https://www.usenix.org/system/files/sec21summer_yang.
 * 2016, KDD, [“Why Should I Trust You?” Explaining the Predictions of Any Classifier](https://www.kdd.org/kdd2016/papers/files/rfp0573-ribeiroA.pdf)
 * 2018, ACM CCS, [LEMNA: Explaining Deep Learning based Security Applications](http://people.cs.vt.edu/gangwang/ccs18.pdf)
 ## Data Augmentation
-* 2020, S&P, [Throwing Darts in the Dark? Detecting Bots with Limited Data using Neural Data Augmentation] (https://people.cs.vt.edu/vbimal/publications/syntheticdata-sp20.pdf)
+* 2020, S&P, [Throwing Darts in the Dark? Detecting Bots with Limited Data using Neural Data Augmentation](https://people.cs.vt.edu/vbimal/publications/syntheticdata-sp20.pdf)
 
 ## Advasarial 
 * 2014, NIPS, [Generative Adversarial Nets](http://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)
