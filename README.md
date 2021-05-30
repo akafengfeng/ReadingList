@@ -45,7 +45,7 @@ for Deep Learning in Security](https://conferences.computer.org/eurosp/pdfs/Euro
 * 2020, arxiv, [Connecting Interpretability and Robustness in Decision Trees through
 Separation](https://arxiv.org/pdf/2102.07048.pdf)
 * 2017, ACM CCS, [DeepLog: Anomaly Detection and Diagnosis from System Logs through Deep Learning](https://dl.acm.org/doi/pdf/10.1145/3133956.3134015)
-
+* 2021, USENIX, [Cost-Aware Robust Tree Ensembles for Security Applications](https://www.usenix.org/system/files/sec21fall-chen-yizheng.pdf)
 
 
 
