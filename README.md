@@ -36,6 +36,14 @@ for Deep Learning in Security](https://conferences.computer.org/eurosp/pdfs/Euro
 * 2019, ICLR, [Deep anomaly detection with outlier exposure](https://arxiv.org/pdf/1812.04606.pdf)
 * 2019, IEEE Trans, [Generative adversarial active learning for unsupervised outlier detection](https://arxiv.org/pdf/1809.10816.pdf)
 
+
+## Few-Shot Learning
+
+* 2017, NIPS, [Prototypical Networks for Few-shot Learning](https://www.cs.toronto.edu/~zemel/documents/prototypical_networks_nips_2017.pdf)
+* 2017, ICLR, [Optimization as a Model
+for Few-Shot Learning](https://openreview.net/pdf?id=rJY0-Kcll)
+* 2018, CVPR, [Learning to Compare: Relation Network for Few-Shot Learning](https://openaccess.thecvf.com/content_cvpr_2018/papers/Sung_Learning_to_Compare_CVPR_2018_paper.pdf)
+
 ## RNN Encoder-Decoder
 
 * 2014, arxiv, [Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation](https://arxiv.org/pdf/1406.1078.pdf)
