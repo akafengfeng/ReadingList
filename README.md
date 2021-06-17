@@ -4,7 +4,7 @@
 ## Robustness
 * 2017, ICML, [Parseval Networks: Improving Robustness to Adversarial Examples](http://proceedings.mlr.press/v70/cisse17a/cisse17a.pdf)
 * 2019, ICML, [Theoretically Principled Trade-off between Robustness and Accuracy](http://proceedings.mlr.press/v97/zhang19p/zhang19p.pdf)
-* 2020, NIPS, [A Closer Look at Accuracy vs. Robustness](https://proceedings.neurips.cc/paper/2020/file/61d77652c97ef636343742fc3dcf3ba9-Paper.pdf)
+* 2020, NeurIPS, [A Closer Look at Accuracy vs. Robustness](https://proceedings.neurips.cc/paper/2020/file/61d77652c97ef636343742fc3dcf3ba9-Paper.pdf)
 
 ## Network Intrusion Detection
 * 2010, S&P, [Outside the Closed World:On Using Machine Learning For Network Intrusion Detection](http://www.icir.org/robin/papers/oakland10-ml.pdf)
@@ -20,10 +20,10 @@ for Security Applications](https://www.usenix.org/system/files/sec21summer_yang.
 * 2020, S&P, [Throwing Darts in the Dark? Detecting Bots with Limited Data using Neural Data Augmentation](https://people.cs.vt.edu/vbimal/publications/syntheticdata-sp20.pdf)
 
 ## Advasarial 
-* 2014, NIPS, [Generative Adversarial Nets](http://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)
+* 2014, NeurIPS, [Generative Adversarial Nets](http://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)
 * 2018, ICML, [Towards deep learning models resistant to adversarial attacks](https://arxiv.org/pdf/1706.06083.pdf)
 * 2018, IEEE Access, [Deep Learning-Based Intrusion Detection With Adversaries](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8408779)
-* 2019, NIPS, [Adversarial Training for Free!](https://proceedings.neurips.cc/paper/2019/file/7503cfacd12053d309b6bed5c89de212-Paper.pdf)
+* 2019, NeurIPS, [Adversarial Training for Free!](https://proceedings.neurips.cc/paper/2019/file/7503cfacd12053d309b6bed5c89de212-Paper.pdf)
 * 2020, arxiv, [Evaluating and Improving Adversarial Robustness
 of Machine Learning-Based Network
 Intrusion Detectors](https://arxiv.org/pdf/2005.07519.pdf)
@@ -40,7 +40,7 @@ for Deep Learning in Security](https://conferences.computer.org/eurosp/pdfs/Euro
 
 ## Few-Shot Learning
 
-* 2017, NIPS, [Prototypical Networks for Few-shot Learning](https://www.cs.toronto.edu/~zemel/documents/prototypical_networks_nips_2017.pdf)
+* 2017, NeurIPS, [Prototypical Networks for Few-shot Learning](https://www.cs.toronto.edu/~zemel/documents/prototypical_networks_nips_2017.pdf)
 * 2017, ICLR, [Optimization as a Model
 for Few-Shot Learning](https://openreview.net/pdf?id=rJY0-Kcll)
 * 2018, CVPR, [Learning to Compare: Relation Network for Few-Shot Learning](https://openaccess.thecvf.com/content_cvpr_2018/papers/Sung_Learning_to_Compare_CVPR_2018_paper.pdf)
