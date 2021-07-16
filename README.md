@@ -16,8 +16,9 @@ for Security Applications](https://www.usenix.org/system/files/sec21summer_yang.
 * 2016, KDD, [“Why Should I Trust You?” Explaining the Predictions of Any Classifier](https://www.kdd.org/kdd2016/papers/files/rfp0573-ribeiroA.pdf)
 * 2017, NeurIPS, [A Unified Approach to Interpreting Model Predictions](https://proceedings.neurips.cc/paper/2017/file/8a20a8621978632d76c43dfd28b67767-Paper.pdf)
 * 2018, ACM CCS, [LEMNA: Explaining Deep Learning based Security Applications](http://people.cs.vt.edu/gangwang/ccs18.pdf)
-## Data Augmentation
+## Data Augmentation/Poisoning
 * 2020, S&P, [Throwing Darts in the Dark? Detecting Bots with Limited Data using Neural Data Augmentation](https://people.cs.vt.edu/vbimal/publications/syntheticdata-sp20.pdf)
+* 2021, USENIX, [Poisoning the Unlabeled Dataset of Semi-Supervised Learning](https://arxiv.org/pdf/2105.01622.pdf)
 
 ## Advasarial 
 * 2014, NeurIPS, [Generative Adversarial Nets](http://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)
