@@ -5,6 +5,8 @@
 * 2017, ICML, [Parseval Networks: Improving Robustness to Adversarial Examples](http://proceedings.mlr.press/v70/cisse17a/cisse17a.pdf)
 * 2019, ICML, [Theoretically Principled Trade-off between Robustness and Accuracy](http://proceedings.mlr.press/v97/zhang19p/zhang19p.pdf)
 * 2020, NeurIPS, [A Closer Look at Accuracy vs. Robustness](https://proceedings.neurips.cc/paper/2020/file/61d77652c97ef636343742fc3dcf3ba9-Paper.pdf)
+* 2017, S&P, [Towards Evaluating the Robustness
+of Neural Networks](https://arxiv.org/pdf/1608.04644.pdf)
 
 ## Network Intrusion Detection
 * 2010, S&P, [Outside the Closed World:On Using Machine Learning For Network Intrusion Detection](http://www.icir.org/robin/papers/oakland10-ml.pdf)
