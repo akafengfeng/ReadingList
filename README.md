@@ -20,6 +20,12 @@ for Security Applications](https://www.usenix.org/system/files/sec21summer_yang.
 * 2018, ACM CCS, [LEMNA: Explaining Deep Learning based Security Applications](http://people.cs.vt.edu/gangwang/ccs18.pdf)
 ## Data Augmentation/Poisoning
 * 2020, S&P, [Throwing Darts in the Dark? Detecting Bots with Limited Data using Neural Data Augmentation](https://people.cs.vt.edu/vbimal/publications/syntheticdata-sp20.pdf)
+* 2018, ICLR, [MGAN: TRAINING GENERATIVE ADVERSARIAL NETS WITH
+MULTIPLE GENERATORS](https://openreview.net/pdf?id=rkmu5b0a-)
+* 2017, ICLR, [ENERGY-BASED GENERATIVE ADVERSARIAL NETWORKS](https://arxiv.org/pdf/1609.03126.pdf)
+* 2017, NeurIPS, [Good Semi-supervised Learning
+That Requires a Bad GAN](https://papers.nips.cc/paper/2017/file/79514e888b8f2acacc68738d0cbb803e-Paper.pdf)
+* 2016，NeurIPS, [Improved Techniques for Training GANs](https://papers.nips.cc/paper/2016/file/8a3363abe792db2d8761d6403605aeb7-Paper.pdf)
 * 2021, USENIX, [Poisoning the Unlabeled Dataset of Semi-Supervised Learning](https://arxiv.org/pdf/2105.01622.pdf)
 
 ## Advasarial 
